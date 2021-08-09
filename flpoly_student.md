@@ -1,27 +1,31 @@
-## First Name Last Name
+## Robert Guenther
 
-### Term Year 
+### Summer 2021 
 
 DSBA student at [Florida Polytechnic University](https://www.floridapoly.edu) currently enrolled in: 
 
-- Course 1
+- Precalculus
 
-- Course 2
+- Introduction to Data SCience
 
-- Course 3
 
-- Course 4
 
 **Hobbies:**
 
 I am _passionate about_: 
 
-- Thing 1
+- Football
 
-- Thing 2
+- Fishing
 
-- Thing 3 as shown in this website <https://www.floridapoly.edu>
+- Working on cars as shown in this website <https://goshare.co/the-10-best-truck-mods-for-your-pickup-truck/>
+
+
+|**Prefix**|**Number**|*Name*|Credits|
+|----------|----------|------|-------|
+|**COP**|**2073**|**Introduction to Data Science**|3|
+|**MAC**|**1147**|**Precalculus Algebra/Trigonometry**|4|
 
 ***
 
-> Last modified: YYYY/MM/DD
+> Last modified: 2021/07/06
